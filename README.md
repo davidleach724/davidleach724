@@ -46,6 +46,7 @@ I spent the past 10 years playing music, touring around the world, and performin
 
 <p> 
   <img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/> 
+  <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"/>
   <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
   <img alt="NPM" src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white"/>  
   <img alt="Surge" src="https://img.shields.io/badge/Surge-%232E7EEA.svg?style=for-the-badge&logo=strapi"/>
