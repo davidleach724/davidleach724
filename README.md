@@ -66,6 +66,6 @@ I spent the past 10 years playing music, touring around the world, and performin
 
 <a href="https://github.com/davidleach724/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidleach724&layout=compact&theme=prussian&hide_border=true" /></a>
 
-<a href="https://twitter.com/_mrdaveleach">
+<a href="https://twitter.com/mrdaveleach">
   <img align="right" alt="Dave Leach | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
