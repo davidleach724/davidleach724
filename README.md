@@ -23,7 +23,7 @@ Software Engineer with the heart of a broke musician
 <br>
 
 ### Deployed Project Links
-- [King's Cup](https://istill.party) - Card game built with React and deployed to a custom domain
+- [Future Seeds](https://future-seeds-ui.herokuapp.com/) -A gardening application to store seeds and journal entries
 - [Band Glamp](https://davidleach724.github.io/band-glamp/) - Tour date manager for artists that also pulls in camping data for the area
 - [Quiz Me](https://ruthless-wish.surge.sh/) - A quiz app built in React utilizing Context API
 
