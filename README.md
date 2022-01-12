@@ -24,7 +24,7 @@ Software Engineer with the heart of a broke musician
 
 ### Deployed Project Links
 - [Future Seeds](https://future-seeds-ui.herokuapp.com/) -A gardening application to store seeds and journal entries
-- [Band Glamp](https://davidleach724.github.io/band-glamp/) - Tour date manager for artists that also pulls in camping data for the area
+- [Portfolio](https://daveleach.dev) - Portfolio highlighting style and user experience
 - [Quiz Me](https://ruthless-wish.surge.sh/) - A quiz app built in React utilizing Context API
 
 ### About me
